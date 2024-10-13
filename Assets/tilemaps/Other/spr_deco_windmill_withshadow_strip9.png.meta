@@ -1,0 +1,3925 @@
+fileFormatVersion: 2
+guid: 02e4feeadc2376742bb8fe78b8df9bc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8247621731562155658
+    second: spr_deco_windmill_withshadow_strip9_0
+  - first:
+      213: -8444112431982988860
+    second: spr_deco_windmill_withshadow_strip9_1
+  - first:
+      213: 2954045004262464905
+    second: spr_deco_windmill_withshadow_strip9_2
+  - first:
+      213: 5898964895805863300
+    second: spr_deco_windmill_withshadow_strip9_3
+  - first:
+      213: 7759180718283114926
+    second: spr_deco_windmill_withshadow_strip9_4
+  - first:
+      213: 3775793865045662186
+    second: spr_deco_windmill_withshadow_strip9_5
+  - first:
+      213: 1607655240458966499
+    second: spr_deco_windmill_withshadow_strip9_6
+  - first:
+      213: -403628419329692694
+    second: spr_deco_windmill_withshadow_strip9_7
+  - first:
+      213: 1733600828794416826
+    second: spr_deco_windmill_withshadow_strip9_8
+  - first:
+      213: 1195279088405429451
+    second: spr_deco_windmill_withshadow_strip9_9
+  - first:
+      213: -8128339301237941631
+    second: spr_deco_windmill_withshadow_strip9_10
+  - first:
+      213: -4360056906146710958
+    second: spr_deco_windmill_withshadow_strip9_11
+  - first:
+      213: -19262000962977963
+    second: spr_deco_windmill_withshadow_strip9_12
+  - first:
+      213: 182114405864473044
+    second: spr_deco_windmill_withshadow_strip9_13
+  - first:
+      213: -6622795268379534374
+    second: spr_deco_windmill_withshadow_strip9_14
+  - first:
+      213: -4642363087726209473
+    second: spr_deco_windmill_withshadow_strip9_15
+  - first:
+      213: -5238834615309549002
+    second: spr_deco_windmill_withshadow_strip9_16
+  - first:
+      213: 8059870810178574130
+    second: spr_deco_windmill_withshadow_strip9_17
+  - first:
+      213: 529136570780403066
+    second: spr_deco_windmill_withshadow_strip9_18
+  - first:
+      213: 6172305000292257640
+    second: spr_deco_windmill_withshadow_strip9_19
+  - first:
+      213: 6807091188885028692
+    second: spr_deco_windmill_withshadow_strip9_20
+  - first:
+      213: -8048250468571748439
+    second: spr_deco_windmill_withshadow_strip9_21
+  - first:
+      213: 9148766953143097057
+    second: spr_deco_windmill_withshadow_strip9_22
+  - first:
+      213: 7782124589861505251
+    second: spr_deco_windmill_withshadow_strip9_23
+  - first:
+      213: -8356790263559783591
+    second: spr_deco_windmill_withshadow_strip9_24
+  - first:
+      213: 1838555152218091912
+    second: spr_deco_windmill_withshadow_strip9_25
+  - first:
+      213: 7992726767818736076
+    second: spr_deco_windmill_withshadow_strip9_26
+  - first:
+      213: -773817453845470562
+    second: spr_deco_windmill_withshadow_strip9_27
+  - first:
+      213: 7182868279840941041
+    second: spr_deco_windmill_withshadow_strip9_28
+  - first:
+      213: -5303871018181825621
+    second: spr_deco_windmill_withshadow_strip9_29
+  - first:
+      213: -1808340647136914862
+    second: spr_deco_windmill_withshadow_strip9_30
+  - first:
+      213: -5437834658786374235
+    second: spr_deco_windmill_withshadow_strip9_31
+  - first:
+      213: 368493411461162387
+    second: spr_deco_windmill_withshadow_strip9_32
+  - first:
+      213: 7964278415847138168
+    second: spr_deco_windmill_withshadow_strip9_33
+  - first:
+      213: -4689411521814731198
+    second: spr_deco_windmill_withshadow_strip9_34
+  - first:
+      213: -1606362558587402398
+    second: spr_deco_windmill_withshadow_strip9_35
+  - first:
+      213: -2970296205421459618
+    second: spr_deco_windmill_withshadow_strip9_36
+  - first:
+      213: -5640351924116214136
+    second: spr_deco_windmill_withshadow_strip9_37
+  - first:
+      213: -4962726541225133008
+    second: spr_deco_windmill_withshadow_strip9_38
+  - first:
+      213: 2194740940865832167
+    second: spr_deco_windmill_withshadow_strip9_39
+  - first:
+      213: 2933676684754367171
+    second: spr_deco_windmill_withshadow_strip9_40
+  - first:
+      213: 5033161971137961642
+    second: spr_deco_windmill_withshadow_strip9_41
+  - first:
+      213: -5202813265014424230
+    second: spr_deco_windmill_withshadow_strip9_42
+  - first:
+      213: -422828080282129843
+    second: spr_deco_windmill_withshadow_strip9_43
+  - first:
+      213: 1663431675934047980
+    second: spr_deco_windmill_withshadow_strip9_44
+  - first:
+      213: 6481204641756625106
+    second: spr_deco_windmill_withshadow_strip9_45
+  - first:
+      213: -3276240360527806352
+    second: spr_deco_windmill_withshadow_strip9_46
+  - first:
+      213: -8254805743859242791
+    second: spr_deco_windmill_withshadow_strip9_47
+  - first:
+      213: 2986472031010600300
+    second: spr_deco_windmill_withshadow_strip9_48
+  - first:
+      213: 4749415488867392539
+    second: spr_deco_windmill_withshadow_strip9_49
+  - first:
+      213: 3042899399045928884
+    second: spr_deco_windmill_withshadow_strip9_50
+  - first:
+      213: -4851851099450697065
+    second: spr_deco_windmill_withshadow_strip9_51
+  - first:
+      213: -8448204002304578754
+    second: spr_deco_windmill_withshadow_strip9_52
+  - first:
+      213: -2369316623627029335
+    second: spr_deco_windmill_withshadow_strip9_53
+  - first:
+      213: 1970097110004207865
+    second: spr_deco_windmill_withshadow_strip9_54
+  - first:
+      213: 410743478605236017
+    second: spr_deco_windmill_withshadow_strip9_55
+  - first:
+      213: 1984995058630008206
+    second: spr_deco_windmill_withshadow_strip9_56
+  - first:
+      213: -2629864216710558612
+    second: spr_deco_windmill_withshadow_strip9_57
+  - first:
+      213: 4598761948056560333
+    second: spr_deco_windmill_withshadow_strip9_58
+  - first:
+      213: -8886271802300638642
+    second: spr_deco_windmill_withshadow_strip9_59
+  - first:
+      213: 8384364646002511248
+    second: spr_deco_windmill_withshadow_strip9_60
+  - first:
+      213: -4686026832771719046
+    second: spr_deco_windmill_withshadow_strip9_61
+  - first:
+      213: -6604147663244902209
+    second: spr_deco_windmill_withshadow_strip9_62
+  - first:
+      213: -6789511748444541201
+    second: spr_deco_windmill_withshadow_strip9_63
+  - first:
+      213: -323691019672513568
+    second: spr_deco_windmill_withshadow_strip9_64
+  - first:
+      213: 7209065238655384488
+    second: spr_deco_windmill_withshadow_strip9_65
+  - first:
+      213: 5820142418487685487
+    second: spr_deco_windmill_withshadow_strip9_66
+  - first:
+      213: -6057380310753695505
+    second: spr_deco_windmill_withshadow_strip9_67
+  - first:
+      213: 4193938948719226983
+    second: spr_deco_windmill_withshadow_strip9_68
+  - first:
+      213: 5172881957107599972
+    second: spr_deco_windmill_withshadow_strip9_69
+  - first:
+      213: -2147637897211806719
+    second: spr_deco_windmill_withshadow_strip9_70
+  - first:
+      213: -4613083940319093025
+    second: spr_deco_windmill_withshadow_strip9_71
+  - first:
+      213: 6722296136349087408
+    second: spr_deco_windmill_withshadow_strip9_72
+  - first:
+      213: 4663112318397003205
+    second: spr_deco_windmill_withshadow_strip9_73
+  - first:
+      213: -3006562938308895365
+    second: spr_deco_windmill_withshadow_strip9_74
+  - first:
+      213: 5235098918828313568
+    second: spr_deco_windmill_withshadow_strip9_75
+  - first:
+      213: 7873372752615312840
+    second: spr_deco_windmill_withshadow_strip9_76
+  - first:
+      213: 2366867393264068352
+    second: spr_deco_windmill_withshadow_strip9_77
+  - first:
+      213: -3020402255778191729
+    second: spr_deco_windmill_withshadow_strip9_78
+  - first:
+      213: -8650073592301198989
+    second: spr_deco_windmill_withshadow_strip9_79
+  - first:
+      213: 6510477715991765839
+    second: spr_deco_windmill_withshadow_strip9_80
+  - first:
+      213: -2096544430626496189
+    second: spr_deco_windmill_withshadow_strip9_81
+  - first:
+      213: 7974790553016230350
+    second: spr_deco_windmill_withshadow_strip9_82
+  - first:
+      213: 2023124136275161660
+    second: spr_deco_windmill_withshadow_strip9_83
+  - first:
+      213: 4473002323162867908
+    second: spr_deco_windmill_withshadow_strip9_84
+  - first:
+      213: 7938686544599868798
+    second: spr_deco_windmill_withshadow_strip9_85
+  - first:
+      213: -4676511467537776669
+    second: spr_deco_windmill_withshadow_strip9_86
+  - first:
+      213: -7735395281981080343
+    second: spr_deco_windmill_withshadow_strip9_87
+  - first:
+      213: 9043154447152576440
+    second: spr_deco_windmill_withshadow_strip9_88
+  - first:
+      213: -6519333103953866939
+    second: spr_deco_windmill_withshadow_strip9_89
+  - first:
+      213: 6451915005890962005
+    second: spr_deco_windmill_withshadow_strip9_90
+  - first:
+      213: -1346376367292507994
+    second: spr_deco_windmill_withshadow_strip9_91
+  - first:
+      213: 2626417625616340343
+    second: spr_deco_windmill_withshadow_strip9_92
+  - first:
+      213: -2191361827766387505
+    second: spr_deco_windmill_withshadow_strip9_93
+  - first:
+      213: 5843231200826526495
+    second: spr_deco_windmill_withshadow_strip9_94
+  - first:
+      213: 6481275628515948660
+    second: spr_deco_windmill_withshadow_strip9_95
+  - first:
+      213: -3798932141428987207
+    second: spr_deco_windmill_withshadow_strip9_96
+  - first:
+      213: -4577472880020893851
+    second: spr_deco_windmill_withshadow_strip9_97
+  - first:
+      213: -7764115004374469269
+    second: spr_deco_windmill_withshadow_strip9_98
+  - first:
+      213: -4078738359392562503
+    second: spr_deco_windmill_withshadow_strip9_99
+  - first:
+      213: -9000232444977587666
+    second: spr_deco_windmill_withshadow_strip9_100
+  - first:
+      213: -1129954321585320174
+    second: spr_deco_windmill_withshadow_strip9_101
+  - first:
+      213: -6812818617496991419
+    second: spr_deco_windmill_withshadow_strip9_102
+  - first:
+      213: -2160865570580943349
+    second: spr_deco_windmill_withshadow_strip9_103
+  - first:
+      213: 7483924180124505114
+    second: spr_deco_windmill_withshadow_strip9_104
+  - first:
+      213: -4999554765751423284
+    second: spr_deco_windmill_withshadow_strip9_105
+  - first:
+      213: -2825283006310744416
+    second: spr_deco_windmill_withshadow_strip9_106
+  - first:
+      213: -3462935661831273939
+    second: spr_deco_windmill_withshadow_strip9_107
+  - first:
+      213: 6503413536103055157
+    second: spr_deco_windmill_withshadow_strip9_108
+  - first:
+      213: 349721478564465963
+    second: spr_deco_windmill_withshadow_strip9_109
+  - first:
+      213: 3173479038333609955
+    second: spr_deco_windmill_withshadow_strip9_110
+  - first:
+      213: 6415088663885087831
+    second: spr_deco_windmill_withshadow_strip9_111
+  - first:
+      213: 8915258055556415757
+    second: spr_deco_windmill_withshadow_strip9_112
+  - first:
+      213: 7415493560487617329
+    second: spr_deco_windmill_withshadow_strip9_113
+  - first:
+      213: 377698366389468360
+    second: spr_deco_windmill_withshadow_strip9_114
+  - first:
+      213: 1740696770110987571
+    second: spr_deco_windmill_withshadow_strip9_115
+  - first:
+      213: 853218773110723560
+    second: spr_deco_windmill_withshadow_strip9_116
+  - first:
+      213: -6719576764177384309
+    second: spr_deco_windmill_withshadow_strip9_117
+  - first:
+      213: -2260196869415292323
+    second: spr_deco_windmill_withshadow_strip9_118
+  - first:
+      213: -4353410447870064183
+    second: spr_deco_windmill_withshadow_strip9_119
+  - first:
+      213: 5357763607627049882
+    second: spr_deco_windmill_withshadow_strip9_120
+  - first:
+      213: 3610527866482370682
+    second: spr_deco_windmill_withshadow_strip9_121
+  - first:
+      213: 1568769368774396196
+    second: spr_deco_windmill_withshadow_strip9_122
+  - first:
+      213: -6201839930413579833
+    second: spr_deco_windmill_withshadow_strip9_123
+  - first:
+      213: -9218405147842342073
+    second: spr_deco_windmill_withshadow_strip9_124
+  - first:
+      213: -3963901331936012779
+    second: spr_deco_windmill_withshadow_strip9_125
+  - first:
+      213: -2495483205920524065
+    second: spr_deco_windmill_withshadow_strip9_126
+  - first:
+      213: 7494254415021433114
+    second: spr_deco_windmill_withshadow_strip9_127
+  - first:
+      213: -6189284197706007686
+    second: spr_deco_windmill_withshadow_strip9_128
+  - first:
+      213: 3765344435494096638
+    second: spr_deco_windmill_withshadow_strip9_129
+  - first:
+      213: -6080730978382963200
+    second: spr_deco_windmill_withshadow_strip9_130
+  - first:
+      213: 6959796470981892155
+    second: spr_deco_windmill_withshadow_strip9_131
+  - first:
+      213: 4685116775969798423
+    second: spr_deco_windmill_withshadow_strip9_132
+  - first:
+      213: -866640010947730104
+    second: spr_deco_windmill_withshadow_strip9_133
+  - first:
+      213: -2521326962413478162
+    second: spr_deco_windmill_withshadow_strip9_134
+  - first:
+      213: -2809774325669509315
+    second: spr_deco_windmill_withshadow_strip9_135
+  - first:
+      213: -5193497373744733086
+    second: spr_deco_windmill_withshadow_strip9_136
+  - first:
+      213: 9171375423734950971
+    second: spr_deco_windmill_withshadow_strip9_137
+  - first:
+      213: -5899403280057338503
+    second: spr_deco_windmill_withshadow_strip9_138
+  - first:
+      213: -8624498790672382667
+    second: spr_deco_windmill_withshadow_strip9_139
+  - first:
+      213: 8043009511694001380
+    second: spr_deco_windmill_withshadow_strip9_140
+  - first:
+      213: 1704654085071593258
+    second: spr_deco_windmill_withshadow_strip9_141
+  - first:
+      213: -735844197926441985
+    second: spr_deco_windmill_withshadow_strip9_142
+  - first:
+      213: -1236462925631310347
+    second: spr_deco_windmill_withshadow_strip9_143
+  - first:
+      213: 8166798334922896217
+    second: spr_deco_windmill_withshadow_strip9_144
+  - first:
+      213: 5765292482343982716
+    second: spr_deco_windmill_withshadow_strip9_145
+  - first:
+      213: -6670370586459423030
+    second: spr_deco_windmill_withshadow_strip9_146
+  - first:
+      213: -8206976904690803014
+    second: spr_deco_windmill_withshadow_strip9_147
+  - first:
+      213: 5852620226726674963
+    second: spr_deco_windmill_withshadow_strip9_148
+  - first:
+      213: 8455852549565082872
+    second: spr_deco_windmill_withshadow_strip9_149
+  - first:
+      213: -7540586384826465338
+    second: spr_deco_windmill_withshadow_strip9_150
+  - first:
+      213: -6328215185511890816
+    second: spr_deco_windmill_withshadow_strip9_151
+  - first:
+      213: -581106483374711493
+    second: spr_deco_windmill_withshadow_strip9_152
+  - first:
+      213: -3138515491158169586
+    second: spr_deco_windmill_withshadow_strip9_153
+  - first:
+      213: -65149523501733830
+    second: spr_deco_windmill_withshadow_strip9_154
+  - first:
+      213: -4668588095537067226
+    second: spr_deco_windmill_withshadow_strip9_155
+  - first:
+      213: -3798529781618847328
+    second: spr_deco_windmill_withshadow_strip9_156
+  - first:
+      213: 5415254489370666010
+    second: spr_deco_windmill_withshadow_strip9_157
+  - first:
+      213: 3707906558194389799
+    second: spr_deco_windmill_withshadow_strip9_158
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eed8f5440757270800000000000000
+      internalID: 8247621731562155658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1b1306b7c70da80800000000000000
+      internalID: -8444112431982988860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dd499b740eef820800000000000000
+      internalID: 2954045004262464905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485f10591555dd150800000000000000
+      internalID: 5898964895805863300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9435dd0c52eab60800000000000000
+      internalID: 7759180718283114926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae95527e380566430800000000000000
+      internalID: 3775793865045662186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e51ad86ce98f4610800000000000000
+      internalID: 1607655240458966499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebe9945716066af0800000000000000
+      internalID: -403628419329692694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe2d9ec4ccfe0810800000000000000
+      internalID: 1733600828794416826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccbbdf7ffb769010800000000000000
+      internalID: 1195279088405429451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9dd7a876523f80800000000000000
+      internalID: -8128339301237941631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25af2ac2857fd73c0800000000000000
+      internalID: -4360056906146710958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_12
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f30faef419bbff0800000000000000
+      internalID: -19262000962977963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_13
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d188065610078200800000000000000
+      internalID: 182114405864473044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_14
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb9910eaca1714a0800000000000000
+      internalID: -6622795268379534374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3691b53e53039fb0800000000000000
+      internalID: -4642363087726209473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63244758cabeb47b0800000000000000
+      internalID: -5238834615309549002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237db308cc96adf60800000000000000
+      internalID: 8059870810178574130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75c80b58eed75700800000000000000
+      internalID: 529136570780403066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f89cb02be68a550800000000000000
+      internalID: 6172305000292257640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ffe2bee55a77e50800000000000000
+      internalID: 6807091188885028692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7e86d17dede4090800000000000000
+      internalID: -8048250468571748439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e65de65213f6fe70800000000000000
+      internalID: 9148766953143097057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e807804519affb60800000000000000
+      internalID: 7782124589861505251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b731e0887b60c80800000000000000
+      internalID: -8356790263559783591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8817ceb7b2cd38910800000000000000
+      internalID: 1838555152218091912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc18796e5aedbee60800000000000000
+      internalID: 7992726767818736076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e922b862029d245f0800000000000000
+      internalID: -773817453845470562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f32750e4acaea360800000000000000
+      internalID: 7182868279840941041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab68caf86dd466b0800000000000000
+      internalID: -5303871018181825621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252118e23cb77e6e0800000000000000
+      internalID: -1808340647136914862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad0bbf403ee884b0800000000000000
+      internalID: -5437834658786374235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395e63c2ec62d1500800000000000000
+      internalID: 368493411461162387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_33
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87321ecc50dc68e60800000000000000
+      internalID: 7964278415847138168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_34
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246eb94011ddbeeb0800000000000000
+      internalID: -4689411521814731198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_35
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26709ea83cd05b9e0800000000000000
+      internalID: -1606362558587402398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57c926a65367c6d0800000000000000
+      internalID: -2970296205421459618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_37
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eacd21fc179b1b0800000000000000
+      internalID: -5640351924116214136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c7fd0218ad02bb0800000000000000
+      internalID: -4962726541225133008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4805ae149457e10800000000000000
+      internalID: 2194740940865832167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_40
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c231a8c66386b820800000000000000
+      internalID: 2933676684754367171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_41
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaedeaa552269d540800000000000000
+      internalID: 5033161971137961642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_42
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dff12b6e4ebc7b0800000000000000
+      internalID: -5202813265014424230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_43
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a29b9e910d12af0800000000000000
+      internalID: -422828080282129843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_44
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee7e28cb42b51710800000000000000
+      internalID: 1663431675934047980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_45
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d83484684dd1f950800000000000000
+      internalID: 6481204641756625106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_46
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07041f710c47882d0800000000000000
+      internalID: -3276240360527806352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_47
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d86a6b69e9017d80800000000000000
+      internalID: -8254805743859242791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_48
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65b60c3d74127920800000000000000
+      internalID: 2986472031010600300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cdda0493059e140800000000000000
+      internalID: 4749415488867392539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7d167a1ec8a3a20800000000000000
+      internalID: 3042899399045928884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a172a9123caacb0800000000000000
+      internalID: -4851851099450697065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b2a9c6833f1ca80800000000000000
+      internalID: -8448204002304578754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a47840851f7e1fd0800000000000000
+      internalID: -2369316623627029335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f013de22e0375b10800000000000000
+      internalID: 1970097110004207865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137c210840143b500800000000000000
+      internalID: 410743478605236017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_56
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d1c862d7e1c8b10800000000000000
+      internalID: 1984995058630008206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cc473bd68d08bd0800000000000000
+      internalID: -2629864216710558612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2ae7060a512df30800000000000000
+      internalID: 4598761948056560333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4adc4690ee9da480800000000000000
+      internalID: -8886271802300638642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_60
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dc258293f3b5470800000000000000
+      internalID: 8384364646002511248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7061b85c63e7feb0800000000000000
+      internalID: -4686026832771719046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_62
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0cf08c0ba5954a0800000000000000
+      internalID: -6604147663244902209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_63
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee2f93890fc6c1a0800000000000000
+      internalID: -6789511748444541201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e39f6b8bb4028bf0800000000000000
+      internalID: -323691019672513568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_65
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abbba8a3aebb0460800000000000000
+      internalID: 7209065238655384488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_66
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61342471bc45c050800000000000000
+      internalID: 5820142418487685487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8a41463bcdfeba0800000000000000
+      internalID: -6057380310753695505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_68
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760b510e04dd33a30800000000000000
+      internalID: 4193938948719226983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_69
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a0d6e9bb4c9c740800000000000000
+      internalID: 5172881957107599972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cf58e06be0232e0800000000000000
+      internalID: -2147637897211806719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_71
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde9832f8980bffb0800000000000000
+      internalID: -4613083940319093025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_72
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6711248b46a4d50800000000000000
+      internalID: 6722296136349087408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_73
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c53dc582f3b6b040800000000000000
+      internalID: 4663112318397003205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_74
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d5e33efea8646d0800000000000000
+      internalID: -3006562938308895365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_75
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb0bccdabec6a840800000000000000
+      internalID: 5235098918828313568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd00e7bdc6d34d60800000000000000
+      internalID: 7873372752615312840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_77
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007a5fd9a5dc8d020800000000000000
+      internalID: 2366867393264068352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_78
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f866d81b6206516d0800000000000000
+      internalID: -3020402255778191729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_79
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37166e9d5e3c4f780800000000000000
+      internalID: -8650073592301198989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_80
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4329cb1dfcd95a50800000000000000
+      internalID: 6510477715991765839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_81
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412fa4c2f397e2e0800000000000000
+      internalID: -2096544430626496189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_82
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec16ca671c52cae60800000000000000
+      internalID: 7974790553016230350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_83
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c323337dea4931c10800000000000000
+      internalID: 2023124136275161660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_84
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8ae97f9eb431e30800000000000000
+      internalID: 4473002323162867908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_85
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e756c02f951eb2e60800000000000000
+      internalID: 7938686544599868798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_86
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efbe55f891b91fb0800000000000000
+      internalID: -4676511467537776669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_87
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecf84499fa56a490800000000000000
+      internalID: -7735395281981080343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_88
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7f5879e0dbf7d70800000000000000
+      internalID: 9043154447152576440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_89
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f8266351da685a0800000000000000
+      internalID: -6519333103953866939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_90
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552a42f938ec98950800000000000000
+      internalID: 6451915005890962005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a89c8dc3d5b05de0800000000000000
+      internalID: -1346376367292507994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_92
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775dfa64ae8e27420800000000000000
+      internalID: 2626417625616340343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_93
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc32a92708b691e0800000000000000
+      internalID: -2191361827766387505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_94
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b8eb181d3571150800000000000000
+      internalID: 5843231200826526495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478f61948dd12f950800000000000000
+      internalID: 6481275628515948660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_96
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baaf40585b774bc0800000000000000
+      internalID: -3798932141428987207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_97
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fce590bac8970c0800000000000000
+      internalID: -4577472880020893851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65baf02a82504490800000000000000
+      internalID: -7764115004374469269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_99
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b295ac72196567c0800000000000000
+      internalID: -4078738359392562503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_100
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a5a2dc640c81380800000000000000
+      internalID: -9000232444977587666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_101
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f4d7108889150f0800000000000000
+      internalID: -1129954321585320174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_102
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5498ce030910471a0800000000000000
+      internalID: -6812818617496991419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ea62a56301302e0800000000000000
+      internalID: -2160865570580943349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14174ae36d3cd760800000000000000
+      internalID: 7483924180124505114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_105
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce6648ed630e9ab0800000000000000
+      internalID: -4999554765751423284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_106
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae76e223149ac8d0800000000000000
+      internalID: -2825283006310744416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_107
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22c38cec5e21ffc0800000000000000
+      internalID: -3462935661831273939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_108
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fb3ee8724c04a50800000000000000
+      internalID: 6503413536103055157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_109
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc824f4d57ad400800000000000000
+      internalID: 349721478564465963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_110
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7e50e1f567a0c20800000000000000
+      internalID: 3173479038333609955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_111
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7548185b629f60950800000000000000
+      internalID: 6415088663885087831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_112
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01416a67fb59bb70800000000000000
+      internalID: 8915258055556415757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_113
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133af03ba1029e660800000000000000
+      internalID: 7415493560487617329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_114
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccb3e0c9aadd3500800000000000000
+      internalID: 377698366389468360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_115
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d92246d72382810800000000000000
+      internalID: 1740696770110987571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_116
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e395fe14fd37db00800000000000000
+      internalID: 853218773110723560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cfc3ae8844fb2a0800000000000000
+      internalID: -6719576764177384309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_118
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d523d0c1cea22a0e0800000000000000
+      internalID: -2260196869415292323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_119
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c90b3553449593c0800000000000000
+      internalID: -4353410447870064183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_120
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b202f4d999a5a40800000000000000
+      internalID: 5357763607627049882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_121
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78a45517fb2b1230800000000000000
+      internalID: 3610527866482370682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_122
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429cf40ed6365c510800000000000000
+      internalID: 1568769368774396196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_123
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c18dd92173aee9a0800000000000000
+      internalID: -6201839930413579833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_124
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7439937fb55a11080800000000000000
+      internalID: -9218405147842342073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_125
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51691418db46df8c0800000000000000
+      internalID: -3963901331936012779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_126
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87720fe334e5dd0800000000000000
+      internalID: -2495483205920524065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_127
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1161c72fa0f00860800000000000000
+      internalID: 7494254415021433114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_128
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b7bcd70de3b1aa0800000000000000
+      internalID: -6189284197706007686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_129
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe8e9e70d0314430800000000000000
+      internalID: 3765344435494096638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_130
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e15ca6467ec9ba0800000000000000
+      internalID: -6080730978382963200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_131
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3894e9040a269060800000000000000
+      internalID: 6959796470981892155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_132
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71937ea82e0e40140800000000000000
+      internalID: 4685116775969798423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845e15f608319f3f0800000000000000
+      internalID: -866640010947730104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeedaba7c72720dd0800000000000000
+      internalID: -2521326962413478162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_135
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37c47b332da109d0800000000000000
+      internalID: -2809774325669509315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_136
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2646508a7adfce7b0800000000000000
+      internalID: -5193497373744733086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c28791b55474f70800000000000000
+      internalID: 9171375423734950971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_138
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975786129fb112ea0800000000000000
+      internalID: -5899403280057338503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_139
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535cf206b00af4880800000000000000
+      internalID: -8624498790672382667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_140
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4eb9589828e9f60800000000000000
+      internalID: 8043009511694001380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_141
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f5c95dbd528a710800000000000000
+      internalID: 1704654085071593258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_142
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbef84c991c9c5f0800000000000000
+      internalID: -735844197926441985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f53ecb258337dee0800000000000000
+      internalID: -1236462925631310347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_144
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953b459e0db465170800000000000000
+      internalID: 8166798334922896217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_145
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76d75487fe620050800000000000000
+      internalID: 5765292482343982716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_146
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace3fd1fa451e63a0800000000000000
+      internalID: -6670370586459423030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_147
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abed114dcf5fa1e80800000000000000
+      internalID: -8206976904690803014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_148
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3124f43761fa83150800000000000000
+      internalID: 5852620226726674963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_149
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc68e1c719395570800000000000000
+      internalID: 8455852549565082872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_150
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3854e72a47a5790800000000000000
+      internalID: -7540586384826465338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_151
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080c45d21d9ad28a0800000000000000
+      internalID: -6328215185511890816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_152
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d16c17bbe7fe7f0800000000000000
+      internalID: -581106483374711493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_153
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08e4731ac0c174d0800000000000000
+      internalID: -3138515491158169586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_154
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38a4628ada881ff0800000000000000
+      internalID: -65149523501733830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_155
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b45e2ccd7d53fb0800000000000000
+      internalID: -4668588095537067226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_156
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1ddd10a49e84bc0800000000000000
+      internalID: -3798529781618847328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_157
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14274f4449d62b40800000000000000
+      internalID: 5415254489370666010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_deco_windmill_withshadow_strip9_158
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723948d8e51257330800000000000000
+      internalID: 3707906558194389799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
